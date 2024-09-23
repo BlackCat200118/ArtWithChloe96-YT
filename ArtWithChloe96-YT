@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chloe Sedik - Art with Chloe</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ff69b4;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 3em;
+        }
+
+        p {
+            font-size: 1.2em;
+            margin: 20px 0;
+        }
+
+        .content {
+            padding: 20px;
+            text-align: center;
+        }
+
+        a {
+            text-decoration: none;
+            color: #ff69b4;
+            font-weight: bold;
+        }
+
+        .youtube-section {
+            background-color: #ffd700;
+            padding: 40px;
+            margin-top: 20px;
+        }
+
+        .youtube-section h2 {
+            color: #333;
+            font-size: 2em;
+        }
+
+        .youtube-section p {
+            margin-bottom: 20px;
+        }
+
+        .youtube-section a {
+            padding: 10px 20px;
+            background-color: #ff69b4;
+            color: white;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: #ff69b4;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Chloe Sedik - Art with Chloe</h1>
+    <p>Exploring the beauty of art, one creation at a time.</p>
+</header>
+
+<div class="content">
+    <p>Welcome to my personal webpage! I'm Chloe, an artist passionate about bringing creative ideas to life. Here, you can explore my art journey and check out my latest videos.</p>
+</div>
+
+<div class="youtube-section">
+    <h2>Check out my YouTube Channel!</h2>
+    <p>Subscribe to my channel <strong>ArtWithChloe96</strong> for tutorials, art processes, and more!</p>
+    <a href="https://www.youtube.com/channel/ArtWithChloe96" target="_blank">Visit my YouTube Channel</a>
+</div>
+
+<footer>
+    <p>&copy; 2024 Chloe Sedik. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
